@@ -5,7 +5,7 @@ I’m a passionate and experienced children's book illustrator, ghostwriter, and
 
 
 <!--mention your top/relevant skills here - core and soft skills-->
-## Services Offered
+## Sills
 
 **Children's Book Illustration**
 
@@ -32,7 +32,7 @@ Skilled in creating custom Wix websites tailored to client branding and business
 Focus on user-friendly, visually appealing websites optimized for conversion and functionality.
 
 <!--Section 2: List 3-4 key project-->
-## My portfolio 
+## My Projects 
 **Children’s Book Illustration:**
 
 ![image]
