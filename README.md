@@ -1,11 +1,11 @@
 <!--Section 1: introduce yourself -->
-##About Me
+## About Me
 
 I’m a passionate and experienced children's book illustrator, ghostwriter, and presentation designer, with a strong background in website design. With over 5 years of experience and a portfolio of over 35 published books, I have honed my skills in crafting engaging, visually captivating artwork that tells stories and elevates the reader's experience. In addition to my illustration and writing expertise, I specialize in high-quality presentation design, creating visually impactful slides and pitch decks for various industries, and have extensive experience designing Wix websites tailored to client needs.
 
 
 <!--mention your top/relevant skills here - core and soft skills-->
-##Services Offered
+## Services Offered
 
 Children's Book Illustration
 
