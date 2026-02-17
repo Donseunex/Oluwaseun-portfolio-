@@ -71,11 +71,13 @@ Role: Full website design, SEO setup, and e-commerce configuration.
 
 <!--Section 3: List 3-4 key project-->
 ## 🛠 Tools I Work With
+
 PowerPoint • Google Slides • Canva • Figma
 Adobe Creative Suite (Illustrator, InDesign, Photoshop)
 CorelDRAW, and other design platforms
 
 **🤝 How I Work**
+
 Working with me is simple, transparent, and results-focused:
 Define the Vision
 We align on goals, brand assets, and style via chat or call.
@@ -86,16 +88,19 @@ Design + Feedback Loop
 I revise as needed to ensure you receive a polished, on-brand, and fully editable final product—delivered in your preferred format.
 
 **✅ Why Clients Choose Me**
+
 Reliable, creative, and highly experience 5+ years in the industry
 Quick delivery
 Clear communication, consistent delivery, zero drama
 🌟 Trusted by Global Brands
 
 **🏭 Industries I Serve**
+
 My work spans a wide range of sectors:
 Tech, Healthcare, Pharmaceuticals, Finance, Energy, Automotive, Education, Real Estate, Retail, Government, Non-profit, Hospitality, Software, Construction, Fashion, Cryptocurrency, FMCG, Aerospace, Sports, AI, and many others.
 
 **⭐ Presentation Types**
+
 Investor Pitch Decks
 Corporate Presentations
 Sales Decks
@@ -106,5 +111,7 @@ AI/Tech-focused Presentations
 Industry-specific decks (Medical, Financial, Educational, etc.)
 
 If you're looking for a dedicated presentation designer who understands both design and business goals and delivers high-quality work with zero hassle look no further.
+
 **📩 Let’s connect!**
+
 Message me, schedule a call, or send over your brief to get started.
