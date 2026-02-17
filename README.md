@@ -5,7 +5,7 @@ I’m a passionate and experienced children's book illustrator, ghostwriter, and
 
 
 <!--mention your top/relevant skills here - core and soft skills-->
-## Sills
+## Skills
 
 **Children's Book Illustration**
 
