@@ -45,7 +45,7 @@ Role: Full-book illustration, including character design, animal illustrations, 
 
 **Ghostwriting:**
 
-![image] main_body doc.pdf
+![image] ⟮main_body doc.pdf⟯
 
 Project Title: God Was Holding My Hand (Authored and self-published)
 
