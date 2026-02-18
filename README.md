@@ -65,7 +65,7 @@ Role: Presentation design, custom templates, data visualization, and client coll
 
 **Wix Website Design:**
 
-![image]
+![image] ⟮screencapture-001.png⟯
 
 Project Title: E-commerce Store for Digital Products (For a U.S.-based client)
 
