@@ -35,7 +35,6 @@ Focus on user-friendly, visually appealing websites optimized for conversion and
 ## My Projects 
 **Children’s Book Illustration:**
 
-![image]
 
 Project Title: The Magical Forest Adventures (Illustrated for a U.S.-based author)
 
@@ -45,7 +44,6 @@ Role: Full-book illustration, including character design, animal illustrations, 
 
 **Ghostwriting:**
 
-![image] ⟮main_body doc.pdf⟯
 
 Project Title: God Was Holding My Hand (Authored and self-published)
 
@@ -55,7 +53,6 @@ Role: Full manuscript creation, editing, and proofreading.
 
 **Presentation Design:**
 
-![image]
 
 Project Title: Investor Pitch Deck for a Tech Startup (Designed for a Series A funding round)
 
@@ -64,9 +61,6 @@ Description: Designed a sleek, modern investor pitch deck that clearly communica
 Role: Presentation design, custom templates, data visualization, and client collaboration.
 
 **Wix Website Design:**
-**How i help Dr Tdc to land his dream website project**
-![image] ⟮screencapture-001.png⟯
-
 Project Title: E-commerce Store for Digital Products (For a U.S.-based client)
 
 Description: Created a fully customized Wix e-commerce website tailored to selling eBooks, printables, and digital downloads. The website included SEO optimization, user-friendly navigation, and a smooth checkout process to ensure high conversion rates.
