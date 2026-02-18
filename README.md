@@ -64,7 +64,7 @@ Description: Designed a sleek, modern investor pitch deck that clearly communica
 Role: Presentation design, custom templates, data visualization, and client collaboration.
 
 **Wix Website Design:**
-
+**How i help Dr Tdc to land his dream website project**
 ![image] ⟮screencapture-001.png⟯
 
 Project Title: E-commerce Store for Digital Products (For a U.S.-based client)
